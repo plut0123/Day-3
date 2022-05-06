@@ -2,7 +2,7 @@
 
 int my_compute_factorial_IT(int nb);
 
-int main(int argc, int **argv) {
+int main(void) {
     int nb = 15;
     int i;
     i = my_compute_factorial_IT(nb);
